@@ -51,7 +51,7 @@ function Privacy() {
             If you have any questions or concerns regarding our Privacy Policy,
             please do not hesitate to contact us at{" "}
             <a
-              href="https://zeezsoft.com/"
+              href="https://zeezsoft.com/contact"
               target="_blank"
               className="text-blue-700"
             >

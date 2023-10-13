@@ -35,11 +35,16 @@ export default function Home() {
               Download our app:
             </p>
             <div className="flex w-full justify-center md:justify-start pb-24 lg:pb-0 fade-in">
-              <img
+              {/* <img
                 src="/app-store.svg"
                 className="h-12 pr-4 bounce-top-icons"
-              />
-              <img src="/play-store.svg" className="h-12 bounce-top-icons" />
+              /> */}
+              <a
+                href="https://play.google.com/store/apps/details?id=com.zeezsoft.workouttimer"
+                target="_blank"
+              >
+                <img src="/play-store.svg" className="h-12 bounce-top-icons" />
+              </a>
             </div>
           </div>
 
